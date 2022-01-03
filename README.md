@@ -18,8 +18,8 @@ How to use localtunnel:
 
 
 Additional:
-npm i @socket.io/admin-ui
-npm i socket.io
-npm i ws
-npm i pug
-npm i express
+- npm i @socket.io/admin-ui
+- npm i socket.io
+- npm i ws
+- npm i pug
+- npm i express

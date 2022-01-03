@@ -1,3 +1,3 @@
-# NOOM
+# WebRTC study
 
-Zoom Clone using NodeJS, WebRTC and Websockets
+WebRTC study using NodeJS, WebRTC and Websockets

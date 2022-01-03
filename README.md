@@ -4,9 +4,9 @@ WebRTC study using NodeJS, WebRTC and Websockets
 
 
 Requirements: (-D: Development mode)
-npm i nodemon -D
-npm i @babel/core @babel/cli @babel/node -D
-npm i @babel/preset-env -D
+1) npm i nodemon -D
+2) npm i @babel/core @babel/cli @babel/node @babel/preset-env -D
+
 
 How to run it as dev mode: 
 npm run dev
